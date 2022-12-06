@@ -2,11 +2,11 @@
 
 ## Geral information about the scripts:
 
-###### File _'script_bwa_UCEs_2022.sh'_:
+###### File [_script_bwa_UCEs_2022.sh_](https://github.com/SergioB1983/some_scripts_for_genomics/blob/main/script_bwa_UCEs_2022.sh):
 
 In this file there are a very simple series of commands that allow to create the bam files necessaries to continue the phasing process of UCEs data, following Harvey et al. (2016) and including some modifications by Glaucia Del-Rio (Cornell Laboratory of Ornithology). 
 
-The commands use **samtools**, **bwa-mem**, and **gatk** scripts, and does the same processes included in the script '_phyluce_snp_bwa_multiple_align_' from the software phyluce (v.1.6). This script is not included in the latest version (v.1.7). 
+The commands use **samtools**, **bwa-mem**, and **gatk** scripts, and does the same processes included in the script `phyluce_snp_bwa_multiple_align` from the software phyluce (v.1.6). This script is not included in the latest version (v.1.7). 
 
 For more information, please read the script!
 
